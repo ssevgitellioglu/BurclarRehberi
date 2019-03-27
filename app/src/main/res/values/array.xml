@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="burclar">
+    <item>Koç</item>
+    <item>Boğa</item>
+    <item>İkizler</item>
+    <item>Yengeç</item>
+    <item>Aslan</item>
+    <item>Başak</item>
+    <item>Terazi</item>
+    <item>Akrep</item>
+    <item>Yay</item>
+    <item>Oğlak</item>
+    <item>Kova</item>
+    <item>Balık</item>
+</string-array>
+<string-array name="burcTarih">
+    <item>21 Mart-20 Nisan</item>
+    <item>21 Nisan-21 Mayıs</item>
+    <item>22 Mayıs-22 Haziran</item>
+    <item>23 Haziran-22 Temmuz</item>
+    <item>23 Temmuz-22 Ağustos</item>
+    <item>23 Ağustos-22 Eylül</item>
+    <item>23 Eylül-22 Ekim</item>
+    <item>23 Ekim-21 Kasım</item>
+    <item>22 Kasım-21 Aralık</item>
+    <item>22 Aralık-21 Ocak</item>
+    <item>22 Ocak-19 Şubat</item>
+    <item>20 Şubat-20 Mart</item>
+
+</string-array>
+<string-array name="burcgenelozellikleri">
+    <item>
+        Sembolü: Koç
+        Elementi: Ateş
+        Niteliği: Kardinal
+        Yönetici gezegeni: Mars (savaş ve enerji gezegeni)
+        Renk: Kırmızı
+        Gün: Salı
+        Uğurlu sayılar: 1,9
+        Uğurlu taşları: Opal, Turmalin, Yakut, Jasper, Akik
+        Vücutta tekabül ettiği yer: Baş ve yüz
+        Olumlu özellikleri: Enerjik, cesaret verici, durdurulamaz, cesur, adanmış, kahraman, şefkatli
+        Olumsuz özellikleri: Kibirli, benmerkezci, itkisel, buyurgan, inatçı, umursamaz, kıskanç
+        En sevdiği şeyler: Rekabetçi oyunlar, rahat giysiler, yolculuk, tartışmak, kendini şaşırtıcı sözlü ve fiziksel kahramanlıklarla ifade etmek, liderlik, fiziksel güçlükler, spor
+        Nefret ettiği şeyler: Görmezden gelinmek, dar alanlar, kaybetmek, “hayır” kelimesi, hareketsizlik, gecikmeler
+        Gizli tutkuları: Bir numara olmak
+        Güçlü yanları: Cesur, kararlı, öz güvenli, coşkulu, iyimser, dürüst, tutkulu olmaları
+        Zayıf yanları: Sabırsız, dengesiz, çabuk öfkelenen, saldırgan olmaları  </item>
+    <item>
+        Sembolü: Boğa
+        Elementi: Toprak
+        Niteliği: Sabit
+        Yönetici gezegeni: Venüs (güzelliğin ve aşkın gezegeni)
+        Renk: Yeşil, pembe
+        Gün: Cuma, Pazartesi
+        Uğurlu sayılar: 6, 4
+        Uğurlu taşları: Turkuaz taşı, Topaz taşı, Pembe Kuvars, Safir, Yeşim
+        Vücutta tekabül ettiği yer: Boyun, boğaz, çene
+        Olumlu özellikleri: Sabırlı, düzenli, yardımcı, romantik, özenli, adanmış
+        Olumsuz özellikleri: Fazla hoşgörülü, inatçı, tembel, fazla ihtiyatlı
+        En sevdiği şeyler: Fotoğraf, dağlar, güzel müzik, gurme yemek, yemek pişirmek, bahçecilik, romans, kaliteli giysiler,
+        Nefret ettiği şeyler: Acele ettirilmek, parayı israf etmek, kirli şeyler, oteller, ani değişiklikler, engeller, güvensizlik
+        Gizli tutkuları: Her şeyin en iyisine sahip olmak
+        Güçlü yanları: Güvenilir, sabırlı, pratik, adanmış, sorumluluk sahibi, stabil olmaları
+        Zayıf yanları: İnatçı, sahiplenici, tavizsiz olmaları
+    </item>
+    <item>
+        Sembolü: İkizler
+        Elementi: Hava
+        Niteliği: Değişken
+        Yönetici gezegeni: Merkür (iletişim ve haberleşmenin gezegeni)
+        Renk: Açık yeşil, sarı
+        Gün: Çarşamba
+        Uğurlu sayılar: 5, 7
+        Uğurlu taşları: Akuamarin, Akik, Topaz, Sitrin, Turmalin
+        Vücutta tekabül ettiği yer: Omuzlar, eller ve kollar
+        Olumlu özellikleri: Etkileyici, özgün, iş bilen, alımlı, akıllı, maceracı
+        Olumsuz özellikleri: Vesveseli, dengesiz, iki yüzlü, yargılayıcı, depresif
+        En sevdiği şeyler: Müzik, kitaplar, dergiler, sohbet etmek, kısa gezintiler
+        Nefret ettiği şeyler: Yalnız olmak, sınırlandırılmak, tekrar ve rutin, dar görüşlü insanlar, geleneksel moda, otorite figürleri, sessizlik
+        Gizli tutkuları: Tüm cevapları bulmak
+        Güçlü yanları: Kibar, sevecen, meraklı, uyumlu, yeni fikirleri çabucak öğrenebilir olmaları
+        Zayıf yanları: Gergin, tutarsız ve kararsız olmaları
+
+
+    </item>
+    <item>
+        Sembolü: Yengeç
+        Elementi: Su
+        Niteliği: Kardinal (öncü)
+        Yönetici gezegeni: Ay (duyguları ve ruhsal durumları yöneten gök cismi)
+        Renk: Beyaz
+        Gün: Pazartesi, Perşembe
+        Uğurlu sayılar: 2, 3
+        Uğurlu taşları: Akuamarin, Ay taşı, Kuvars kristali, Safir Taşı, Zümrüt
+        Vücutta tekabül ettiği yer: Göğüs, mide
+        Olumlu özellikleri: Yardımsever, sabırlı, merhametli, anaç, romantik, yaratıcı
+        Olumsuz özellikleri: Dedikoducu, burnu havada, ketum, aşırı duyarlı, fazla rekabetçi
+        En sevdiği şeyler: Gurme yemekler, salon sporları, ev partileri, çocuklar, müze ve sanat galeriler, evde yapılan hobiler, denize girmek, sevdiklerine yardım etmek
+        Nefret ettiği şeyler: Pejmürde giysiler, uluorta konuşmak, acele ettirilmek, yabancı insanlar, özel hayatını anlatmak
+        Gizli tutkuları: Arkadaşlarına ve ailelerine göz kulak olmak
+        Güçlü yanları: Sebatkâr, hayal gücü yüksek, sadık, duygusal, sempatik, ikna gücü yüksek olmaları
+        Zayıf yanları: Bunalımlı, kötümser, şüpheci, manipülatif olmaları
+    </item>
+    <item>
+        Sembolü: Aslan
+        Elementi: Ateş
+        Niteliği: Sabit
+        Yönetici gezegeni: Güneş
+        Renk: Altın sarısı, sarı, turuncu
+        Gün: Pazar
+        Uğurlu sayılar: 1, 3
+        Uğurlu taşları: Akik, Kehribar, Oniks, Topaz taşı, Kaplangözü
+        Vücutta tekabül ettiği yer: Kalp, üst sırt, omurga
+        Olumlu özellikleri: Cesur, kibar, cömert, sadık, koruyucu, dobra, eğlenceli
+        Olumsuz özellikleri: Küstah, müsrif, özensiz, taş kalpli, kıskanç, saldırgan
+        En sevdiği şeyler: Kameralar, şarkı söylemek, yakınlık kurmak, iltifat, güzel kıyafetler, tiyatro, pahalı şeyler, tatiller
+        Nefret ettiği şeyler: Görmezden gelinmek, yavan yemekler, yalnız kalmak, vedalar, kral-kraliçe muamelesi görmemek
+        Gizli tutkuları: Dünyayı yönetmek
+        Güçlü yanları: Yaratıcı, tutkulu, cömert, cana yakın, neşeli, esprili olmaları
+        Zayıf yanları: Küstah, inatçı, benmerkezci, tembel, katı olmaları
+    </item>
+    <item>
+        Sembolü: Bakire kadın
+        Elementi: Toprak
+        Niteliği: Değişken
+        Yönetici gezegeni: Merkür (iletişim gezegeni)
+        Renk: Gri, bej, açık sarı
+        Gün: Çarşamba
+        Uğurlu sayılar: 5, 14
+        Uğurlu taşları: Akik, Kehribar, Jasper, Turmalin, Yeşim
+        Vücutta tekabül ettiği yer: Mide, bel, sindirim sistemi
+        Olumlu özellikleri: Adanmış, becerikli, yardımsever, çalışkan, hazırcevap, pratik
+        Olumsuz özellikleri: Vaaz verme meraklısı, kendi kendine zarar verme, kendine acıma, şekilci, eleştirel
+        En sevdiği şeyler: Bilgisayarlar, dergiler, uzun banyolar, konserler, çocukluk arkadaşları, hayvanlar, sağlıklı yemekler, kitaplar, doğa, temizlik
+        Nefret ettiği şeyler: Tembel ya da kaba insanlar, evden ayrılmak, yardım istemek
+        Gizli tutkuları: Kahraman olmak
+        Güçlü yanları: Sadık, analitik, nazik, çalışkan, pratik olmaları
+        Zayıf yanları: Utangaç, endişeli, aşırı yargılayıcı olmaları
+    </item>
+    <item>
+        Sembolü: Adalet terazisi
+        Elementi: Hava
+        Niteliği: Kardinal
+        Yönetici gezegeni: Venüs (güzelliğin, lüksün ve aşkın gezegeni)
+        Renk: Pembe, yeşil
+        Gün: Cuma
+        Uğurlu sayılar: 4, 6
+        Uğurlu taşları: Yeşim, Topaz, Pembe Kuvars, Turmalin, Akuvamarin
+        Vücutta tekabül ettiği yer: Alt sırt, popo
+        Olumlu özellikleri: Çekici, sevimli, adil, cana yakın, paylaşımcı, romantik,
+        Olumsuz özellikleri: Faydasız, kararsız, aşırı duygusal, manipülatif, şımarık, kuruntulu
+        En sevdiği şeyler: Büyük konserler, şiir, pahalı mücevherler, tasarım giysiler, iyi yemek, uyum, nezaket, gezmek
+        Nefret ettiği şeyler: Donuk ya da pratik insanlar, zorbalık, bir karar vermeye zorlanmak, “belki”ler, şiddet, adaletsizlik, gevezelik, şekilcilik
+        Gizli tutkuları: Sevmek ve sevilmek
+        Güçlü yanları: Dayanışmacı, diplomat, zarif, tarafsız, sosyal olmaları
+        Zayıf yanları: Kararsız olmaları, çatışmadan kaçmaları, kendilerine acımaları
+    </item>
+
+    <item>
+        Sembolü: Akrep
+        Elementi: Su
+        Niteliği: Sabit
+        Yönetici gezegeni: Plüton (gücün ve yenilenmenin gezegeni)
+        Renk: Kırmızı, Bordo, Siyah
+        Gün: Salı
+        Uğurlu sayılar: 8, 11, 18, 22
+        Uğurlu taşları: Yakut, Opal, Lal
+        Vücutta tekabül ettiği yer: Genital organlar,
+        Olumlu özellikleri: Sabırlı, derinlemesine bilgi sahibi, disiplinli, dikkatli
+        Olumsuz özellikleri: Kindar, asıl niyetini gizleyen, herkese karşı güvensiz
+        En sevdiği şeyler: Gizemlilik, tehlike havası, underground müzik, tıbbi bitkiler, lateks veya deri kıyafetler
+        Nefret ettiği şeyler: Basit insanlar, samimiyetsizlik, özel sorular, başkasının evinde yaşamak zorunda olmak
+        Gizli tutkuları: Başkalarının hayatına dair her şeyi bilmek, tam bir kontrole sahip olmak.
+        Güçlü yanları: Güçlü beden, psikolojik direnç, sabır ve sükut
+        Zayıf yanları: Kıskançlık, pasif-agresif tutum, bencillik
+    </item>
+    <item>
+        Sembolü: Okçu
+        Elementi: Ateş
+        Niteliği: Değişken
+        Yönetici gezegeni: Jüpiter (şans ve ilerlemenin gezegeni)
+        Renk: Mavi
+        Gün: Perşembe
+        Uğurlu sayılar: 3, 7, 9
+        Uğurlu taşları: Safir, Lapis, Akik, Ametist, Lal
+        Vücutta tekabül ettiği yer: Kalça, iç uyluk
+        Olumlu özellikleri: Dürüst, tarafsız, iyimser, coşkulu, cesaretlendirici, adanmış
+        Olumsuz özellikleri: Tartışmacı, umursamaz, tuhaf, vaaz verme meraklısı, nezaketsiz, kendinden çok emin
+        En sevdiği şeyler: Meydan okumak, flört etmek, evcil hayvanlar, yolculuk, gülmek, kitaplar, ilham veren öyküler, özgürlük, dışarıda olmak
+        Nefret ettiği şeyler: Önyargı, rutin, kurallar, can sıkkınlığı, meseleleri çok ciddiye almak, “yapamazsın” sözü, yapışkan insanlar, sınırlandırılmak, ayrıntılar
+        Gizli tutkuları: Kuralları koymak
+        Güçlü yanları: Cömert, idealist, esprili olması
+        Zayıf yanları: Asla tutamayacağı sözler vermesi, çok sabırsız olması, kaba konuşması
+    </item>
+    <item>
+        Sembolü: Oğlak
+        Elementi: Toprak
+        Niteliği: Kardinal (öncü)
+        Yönetici gezegeni: Satürn (disiplinin ve olgunluğun gezegeni)
+        Renk: Kahverengi, siyah
+        Gün: Cumartesi
+        Uğurlu sayılar: 4, 8
+        Uğurlu taşları: Turmalin, Zirkon, Yakut, Lal, Malahit
+        Vücutta tekabül ettiği yer: Diz, deri, kemikler ve dişler
+        Olumlu özellikleri: Sadık, ailesine düşkün, çalışkan, adanmış, dürüst, korkusuz
+        Olumsuz özellikleri: Kötümser, bağışlamaz, soğuk, maddiyatçı, burnu havada, umutsuz
+        En sevdiği şeyler: Kartvizitler, hedefler, iş unvanları, görev yapmak, aile, gelenek
+        Nefret ettiği şeyler: İstifa etmek, uluorta bağırmak, dikkatsizlik kaynaklı hatalar, kılavuz olmadan yolculuk yapmak, bir şeyi sırf yapmış olmak için yapmak,
+        Gizli tutkuları: Her ihtiyacı karşılamak
+        Güçlü yanları: Sorumluluk sahibi, disiplinli, otokontrollü olmaları, iyi yönetici olmaları
+        Zayıf yanları: Her şeyi bildiğini zanneden, bağışlamaz, küçümseyici olmaları
+    </item>
+    <item>Sembolü: Kova
+        Elementi: Hava
+        Niteliği: Sabit
+        Yönetici gezegeni: Uranüs (özgünlüğün gezegeni)
+        Renk: Turuncu, gece mavisi, yeşil
+        Gün: Pazar
+        Uğurlu sayılar: 4, 7, 11,22, 29
+        Uğurlu taşları: Yeşim, Obsidyen, Zirkon, Akuamarin, Ametist
+        Vücutta tekabül ettiği yer: Ayak bilekleri
+        Olumlu özellikleri: Bağımsız, özgün, insani, açık fikirli, adil, mantıklı
+        Olumsuz özellikleri: Tavizsiz, gösterişçi, söz tutmama
+        En sevdiği şeyler: Arkadaşlarıyla eğlenmek, yardım etmek, entelektüel ortamlar, bilim-kurgu, bağımsız filmler
+        Nefret ettiği şeyler: Sınırlar, kırıcı sözler, yalnızlık, sıkıcı insanlar, karşıt görüşlü insanlar, adaletsizlik, ilgi manyağı insanlar
+        Gizli tutkuları: Tamamen özgür olmak
+        Güçlü yanları: Özgün fikirler üretebilmek, hızlı öğrenmek, yeniliklere açık olmak
+        Zayıf yanları: Hevesinin çabuk kırılması, alıngan olmak, mesafeli olmak</item>
+    <item>
+        Sembolü: Balık
+        Elementi: Su
+        Niteliği: Değişken
+        Yönetici gezegeni: Neptün (hayal gücünün gezegeni), Jüpiter (şans ve ilerlemenin gezegeni)
+        Renk: Leylak, mor, eflatun, su yeşili
+        Gün: Perşembe
+        Uğurlu sayılar: 3, 9
+        Uğurlu taşları: Akuamarin, Ay taşı, Ametist, Kuvars, Pembe Kuvars
+        Vücutta tekabül ettiği yer: Ayaklar
+        Olumlu özellikleri: Romantik, yardımsever, bilge, rahatlatıcı, yaratıcı
+        Olumsuz özellikleri: Saflık, kendine acıma, gerçeklikten kopukluk, kendine zarar verme, bağımlı
+        En sevdiği şeyler: Yalnız kalmak, uyumak, müzik dinlemek, şarkı söylemek, yazmak, aşık olmak, görsel medya, yüzmek, spiritüalizm, yürümek, burnunun dikine gitmek, içindeki karanlığı bastırmaya çalışmak, ağlamak.
+        Nefret ettiği şeyler: Gerçeklik, gün ışığı, kötü tasarım, gürültülü müzik, ukalalık, eleştirilmek, her türlü gaddarlık, geçmişe takılıp kalmak, derdini anlatamamak ve anlaşılamamak, kale alınmamak, ruhsal ve fiziksel olarak kısıtlanmak
+        Gizli tutkuları: Koşulsuz aşkı bulmak
+        Güçlü yanları: Şefkatli, sanatçı ruhlu, sezgisel, nazik, bilge
+        Zayıf yanları: Korkak, çabuk güvenen, hüzünlü olması, gerçeklikten uzak olması, kendini feda etmesi
+    </item>
+</string-array>
+
+</resources>
